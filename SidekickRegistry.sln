@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SidekickRegistry", "SidekickRegistry.csproj", "{3F633AF3-8944-4D0A-AD21-DF6DE25CC877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F633AF3-8944-4D0A-AD21-DF6DE25CC877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F633AF3-8944-4D0A-AD21-DF6DE25CC877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F633AF3-8944-4D0A-AD21-DF6DE25CC877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F633AF3-8944-4D0A-AD21-DF6DE25CC877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ADE50DC-BDE0-474D-AFBE-09364C2138F6}
+	EndGlobalSection
+EndGlobal
